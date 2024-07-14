@@ -1,6 +1,5 @@
 # Active information gathering tool
 ## Overview of functions
-#### P1
 - Instantiate a scanner
 - Run scan with additional parameters, scan targets, result in a dictionary
 - Needed from dictionary: state of the host, state of ports,scanning method,operation system it guesses
