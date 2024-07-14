@@ -8,3 +8,5 @@ Practicals projects such as a keylogger and zip brute force.
 2.Automating information gathering. <br>
 3.Writing a keylogger. <br>
 4.ZIP Brute-forcing in Python <Br>
+#### Status
+In progress(14/7/24)
